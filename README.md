@@ -22,7 +22,7 @@ Consiste en un kit de batería virtual donde cada tecla del teclado A, S, D, F, 
    git clone https://github.com/ErickG11/javascript30-drum-kit.git
 
 ## Link al despliegue del proyecto
-
+https://erickg11.github.io/javascript30-drum-kit/
 
 ## Autor
 Erick Granda
